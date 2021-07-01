@@ -3,7 +3,9 @@
  * 公共部分
  * ------------------------------------------------- */
 body {
-  background: #e5e5e5 url(../../assets/images/background.png);
+  background: #e5e5e5 url(../../assets/images/back1.png);
+  background-repeat:no-repeat;
+  background-attachment: fixed;
   width: 100%;
   overflow-x: hidden;
   padding: 1rem 10%;
